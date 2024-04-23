@@ -10,17 +10,23 @@
     <img src="https://img.shields.io/github/issues/IS2AI/KazQAD.svg"
          alt="GitHub issues">
   </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/static/v1?label=license&amp;message=CC BY-SA 4.0&amp;color=red&amp"
+         alt="CC BY-SA 4.0">
+  </a>
   <a href="https://issai.nu.edu.kz">
     <img src="https://img.shields.io/static/v1?label=ISSAI&amp;message=official site&amp;color=blue&amp"
          alt="ISSAI Official Website">
   </a>
 </p>
 
+
+
 <h4 align="center">
     <p>
         <a href="https://arxiv.org/abs/2404.04487">Paper</a> |
-        <a href="#-data">Data</a> |
-        <a href="#-baselines">Baselines</a> |
+        <a href="data">Data</a> |
+        <a href="baselines">Baselines</a> |
         <a href="https://huggingface.co/datasets/issai/kazqad">HuggingFace</a>
     </p>
 </h4>
